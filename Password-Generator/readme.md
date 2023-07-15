@@ -68,7 +68,7 @@
   <h2 id="exit-program">Exit Program</h2>
   <p>To exit the program, simply close the command-line window or press <kbd>Ctrl + C</kbd>.</p>
 
-  <p>For more information, please visit the <a href="https://github.com/your-username/passgen" class="button">PassGen GitHub Repository</a>.</p>
+  <p>Link to <a href="https://github.com/Rethar-yt/CodeClause-Internship/blob/main/Password-Generator/passgen.py" class="button">PassGen</a>.</p>
 </body>
 </html>
 
