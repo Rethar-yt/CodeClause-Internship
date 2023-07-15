@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to explore the [calculator.py](https://example.com/calculator.py) script for the complete source code.
+Feel free to explore the [calculator.py](https://github.com/Rethar-yt/CodeClause-Internship/blob/main/Calculator/calculator.py) script for the complete source code.
 
 For any issues or suggestions, please open an issue on this repository.
 
